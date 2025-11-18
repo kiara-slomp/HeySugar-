@@ -3,11 +3,11 @@
 ------------------------------------------------- */
 @font-face {
   font-family: 'Crimson Text';
-  src: url(.../fonts/CrimsonText-Regular.ttf) format('truetype');
+  src: url(/fonts/CrimsonText-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Brown Sugar';
-  src: url(.../fonts/brown-sugar.ttf) format('truetype');
+  src: url(/fonts/brown-sugar.ttf) format('truetype');
 }
 
 /* -------------------------------------------------
